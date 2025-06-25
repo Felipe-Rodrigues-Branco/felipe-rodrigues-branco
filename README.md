@@ -4,7 +4,7 @@
 
 🧑‍💻 Sou um desenvolvedor aspirante a full-stack!
 
-🤖 Estou trabalhando na NDD TECH, na área do suporte!
+🤖 Estou trabalhando na NDD TECH, na área de projetos!
 
 📖 Atualmente estou estudando as seguintes linguagens:
 
